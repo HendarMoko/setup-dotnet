@@ -50,7 +50,7 @@
     "prettier": "^1.19.1",
     "ts-jest": "^27.0.5",
     "typescript": "^3.9.7",
-    "wget-improved": "^3.2.1"
+    "wget-improved": "^3.3.1"
   },
   "jest": {
     "testEnvironment": "node"
